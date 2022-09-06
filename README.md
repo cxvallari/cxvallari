@@ -1,4 +1,4 @@
-![Gif pazza sgrava](https://img.wattpad.com/d550d76961b4adfedcd71ea80b78ef013558e8a0/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f516c4a37367a65726b48374a71513d3d2d31342e313636386365333065356461333436663334333837383533373234312e676966)
+<img src="https://raw.githubusercontent.com/sakjur-soviet/sakjur-soviet/main/bg.png">
 <br>
 
 [![Instagram](https://img.shields.io/badge/sxkjwr-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sxkjwr/)
