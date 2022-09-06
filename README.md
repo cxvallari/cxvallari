@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/sakjur-soviet/sakjur-soviet/main/bg.png">
 <br>
 
-[![Instagram](https://img.shields.io/badge/sxkjwr-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sxkjwr/)
+
+[![Instagram](https://img.shields.io/badge/sxkjwr-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sxkjwr/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@ciaosonosak)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCyq1rqBiKEl8p6hTIKxEj2Q)
-[![telegram](https://img.shields.io/badge/Sakjur-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sakjur/)
-[![Twitter](https://img.shields.io/badge/SakjurOfficial-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/SakjurOfficial/)
-[![Itch.io](https://img.shields.io/badge/sakjursoviet-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://sakjursoviet.itch.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCyq1rqBiKEl8p6hTIKxEj2Q)
+[![Twitter](https://img.shields.io/badge/SakjurOfficial-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/SakjurOfficial/)
+[![Itch.io](https://img.shields.io/badge/sakjursoviet-%23000000.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://sakjursoviet.itch.io/)
+
 
 
 ## Info Badges 📊 
