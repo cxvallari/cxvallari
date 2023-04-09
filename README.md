@@ -39,3 +39,6 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=sakjur-soviete&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"> :(
 </details>
+
+
+![sus](https://github-readme-stats.vercel.app/api?username=sakjur-soviet&show_icons=true&theme=midnight-purple)
