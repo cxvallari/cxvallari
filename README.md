@@ -6,7 +6,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@ciaosonosak)
 [![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCyq1rqBiKEl8p6hTIKxEj2Q)
 [![Twitter](https://img.shields.io/badge/SakjurOfficial-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/SakjurOfficial/)
-[![Itch.io](https://img.shields.io/badge/sakjursoviet-%23000000.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://sakjursoviet.itch.io/)
+
 
 
 
