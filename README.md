@@ -1,11 +1,10 @@
-<img src="https://raw.githubusercontent.com/sakjur-soviet/sakjur-soviet/main/bg.png">
-<br>
 
 
-[![Instagram](https://img.shields.io/badge/sxkjwr-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sxkjwr/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@ciaosonosak)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cxvallari/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@cxvallari)
 [![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCyq1rqBiKEl8p6hTIKxEj2Q)
-[![Twitter](https://img.shields.io/badge/SakjurOfficial-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/SakjurOfficial/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/cxvallari/)
 
 
 
@@ -56,5 +55,4 @@
 </details>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakjur-soviet&theme=dark">
 
